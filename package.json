@@ -1,5 +1,5 @@
 {
-	"name": "browserify-sign",
+	"name": "@savicontrols/browserify-sign",
 	"version": "4.2.3",
 	"description": "adds node crypto signing for browsers",
 	"bugs": {
